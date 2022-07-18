@@ -9,6 +9,7 @@ Credit risk analysis is not a balanced situation. There are very few bad loans c
 
 
 
+![image](https://user-images.githubusercontent.com/101893338/179433434-06fea6ea-65e9-4b10-8d9c-80a2c9066cb9.png)
 
 
 ### SMOTE Method
